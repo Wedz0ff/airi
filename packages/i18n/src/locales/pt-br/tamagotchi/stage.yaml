@@ -1,10 +1,10 @@
 operations:
-  load-models: Load Models
+  load-models: Carregar Modelos
   load-models-status:
-    loading: Loading
-    ready: Ready
+    loading: Carregando
+    ready: Pronto
 docs:
   theme:
     navbar:
       appearance:
-        title: Appearance
+        title: Aparência

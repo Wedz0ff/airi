@@ -1,23 +1,23 @@
 allow-visible-on-all-workspaces:
-  title: Cross-Space Visibility
-  description: Allow the window to be visible on all workspaces, macOS only.
+  title: Visibilidade entre espaços de trabalho
+  description: Permitir que a janela fique visível em todos os espaços de trabalho, somente no macOS.
 pages:
   modules:
     mcp-server:
-      description: Connect and manage MCP server and tools
-      title: MCP Server
+      description: Conectar e gerenciar o servidor MCP e ferramentas
+      title: Servidor MCP
   themes:
     sections:
       section:
         window-shortcuts:
-          title: Keyboard Shortcuts
+          title: Atalhos do Teclado
     window-shortcuts:
-      description: Modify the window shortcuts.
-      title: Window Shortcuts
+      description: Modificar os atalhos da janela.
+      title: Atalhos da Janela
       toggle-move:
-        label: Toggle Move
+        label: Alternar Movimento
       toggle-resize:
-        label: Toggle Resize
+        label: Alternar Redimensionamento
       toggle-ignore-mouse-event:
-        label: Toggle Ignore Mouse Event
-      press-keys: Press Keys...
+        label: Alterar Ignora Evento do Mouse
+      press-keys: Pressionar Teclas...
